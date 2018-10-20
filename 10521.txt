@@ -12,7 +12,7 @@ Title: The Primadonna
 Author: F. Marion Crawford
 
 Release Date: December 23, 2003  [eBook #10521]
-[Date last updated: January 1, 2006]
+[Last updated: October 27, 2015]
 
 Language: English
 
@@ -39,13 +39,7 @@ AUTHOR OF "SARACINESCA," "SANT' ILARIO," "FAIR MARGARET," ETC., ETC.
 
 1908
 
-
-
-
-
-
 [Illustration]
-
 
 
 
@@ -1146,7 +1140,7 @@ of sight on the lower promenade deck, to which the plank was laid to
 suit the height of the tide. She moved away from the door of the first
 cabin companion.
 
-Griggs went with, her, supposing that she wished to walk up and down.
+Griggs went with her, supposing that she wished to walk up and down.
 Numbers of other passengers were strolling about on the side next to
 the pier, waiting to see the start. Margaret went on forward, turned
 the deck-house and walked to the rail on the opposite side, where
@@ -2105,7 +2099,7 @@ Margaret turned on him almost fiercely.
 'Why do you tell me all this?' she asked. 'For heaven's sake let poor
 Miss Bamberger rest in her grave!'
 
-'Since you ask me why,' answered Mr. Van Torp, unmoved,' I tell you
+'Since you ask me why,' answered Mr. Van Torp, unmoved, 'I tell you
 all this because I want you to know more about me than you do. If you
 did, you'd hate me less. That's the plain truth. You know very well
 that there's nobody like you, and that if I'd judged I had the
@@ -3932,7 +3926,7 @@ beautiful to trust what we love.
 A part of the great feminine secret is the concealment of that
 independence about which there has been so much talk in our time. As
 for suffrage, wherever there is such a thing, the woman who does not
-vote always controls far more men's votes than the woman-who goes to
+vote always controls far more men's votes than the woman who goes to
 the polls, and has only her own vote to give.
 
 Margaret, the primadonna, did not want to vote for or against
@@ -4965,7 +4959,7 @@ things of me than that she should not think of me at all!'
 
 'Yes. I used to be quite satisfied with my Venus, but now I want the
 Victory from the Louvre. It's not a mere resemblance. She is you, and
-as she has no face I see yours when I look at her. The other day I
+as she has no face. I see yours when I look at her. The other day I
 stood so long on the landing where she is, that a watchman took me for
 an anarchist waiting to deposit a bomb, and he called a policeman, who
 asked me my name and occupation. I was very near being arrested--on
@@ -6182,7 +6176,7 @@ you one thing, Mr. Bamberger, and that is, that I'm just as anxious as
 you can be to see this thing through, every bit.'
 
 'Well, then, don't waste time! I don't care a cent about the divorce,
-except that it will bring the whole affair into publicity. At soon as
+except that it will bring the whole affair into publicity. As soon as
 all the papers are down on him, I'll start in on the real thing. I
 shall be ready by that time. I want public opinion on both sides of
 the ocean to run strong against him, as it ought to, and it's just
@@ -10543,7 +10537,6 @@ go back at once, to defend yourself?'
 responsible has got to be there, since poor old Bamberger has gone
 crazy and come abroad to stay--apparently.'
 
-
 'Crazy?'
 
 'Well, he behaves like it, anyway. I'm beginning to be sorry for that
@@ -11311,7 +11304,7 @@ As for the warrant, he had burnt it in the empty fireplace in Griggs'
 room after making all secure, and had dusted down the black ashes so
 carefully that they had quite disappeared under the grate. After all,
 as the doctor would arrive in the firm expectation of finding three
-escaped madmen under lock and key, the Scotland Yard men might,
+escaped madmen under lock and key, the Scotland Yard men might
 have some difficulty in proving themselves sane until they could
 communicate with their headquarters, and by that time Mr. Van Torp
 could be far on his way if he chose.
